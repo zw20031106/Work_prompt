@@ -1,0 +1,5 @@
+display_name: Benchmark Extractor
+short_description: Extract benchmark fields from papers into Chinese notes and tables.
+default_prompt: >-
+  Extract tasks, datasets, metrics, baselines, SOTA claims, release status, and
+  evaluation notes from academic papers without inventing missing fields.

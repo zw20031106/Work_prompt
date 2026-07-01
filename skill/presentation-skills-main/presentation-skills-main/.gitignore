@@ -1,0 +1,21 @@
+.DS_Store
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+
+# Node
+**/node_modules/
+
+# Large media artifacts (never commit)
+*.mp3
+*.mp4
+
+# Local run workspace
+temp/
+demo_draft/
+docs/
+AGENTS.md
+
+old/demo_draft/

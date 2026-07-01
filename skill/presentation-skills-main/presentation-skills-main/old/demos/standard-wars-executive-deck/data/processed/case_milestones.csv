@@ -1,0 +1,10 @@
+case,year,title,detail,winner_signal
+Home Video,1975,Sony 推出 Betamax,早期录制时长偏短且授权更谨慎,neutral
+Home Video,1976,JVC 推出 VHS,直接主打更长录制时长与更低制造复杂度,winner
+Home Video,1978,VHS 阵营快速扩张,更广泛厂商支持加速 installed base 形成,winner
+Networking,1983,ARPANET 切换到 TCP/IP,免费实现与现实网络开始锁定路径,winner
+Networking,1987,OSI 推进仍显迟缓,组织协调和标准开发速度带来巨大摩擦,loser
+Networking,1989,Is OSI Too Late 成为行业情绪拐点,市场对“太晚了”的判断已经形成,winner
+HD Optical,2006,Blu-ray 与 HD DVD 正式开战,消费者对单点技术差距并不敏感,neutral
+HD Optical,2006,PS3 把 Blu-ray 带入默认装机路径,installed base 扩张从设备端被加速,winner
+HD Optical,2008,Toshiba 停止 HD DVD 业务,内容联盟与预期锚定完成收束,winner

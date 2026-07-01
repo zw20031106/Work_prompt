@@ -1,0 +1,6 @@
+display_name: Paper Deep Note
+short_description: Generate a structured Chinese deep-reading note for one academic paper.
+default_prompt: >-
+  Turn one academic paper, abstract, or excerpt into a grounded Chinese reading
+  card with evidence limits, method summary, strengths, limitations, and a
+  reading-priority judgment.

@@ -1,0 +1,6 @@
+display_name: Experiment Log Summarizer
+short_description: Summarize experiment logs into a grounded Chinese research update.
+default_prompt: >-
+  Turn experiment logs, metrics, parameter changes, and notes into a structured
+  Chinese summary that separates evidence from speculation and highlights the
+  next validation steps.

@@ -1,0 +1,6 @@
+factor,short_label,market_question,why_it_matters,management_question
+Compatibility,兼容/迁移,新方案是否沿着既有使用习惯与基础设施演进,兼容路径越顺滑，协调成本越低,它是不是顺着既有 installed base 演进
+Installed Base,装机基盘,现有用户和设备会不会自动站到这一边,默认需求越大，越容易跨过 tipping point,它能不能借已有装机与默认入口放大 adoption
+Complements,补充品联盟,内容方渠道方工具方是否愿意一起押注,补充品决定标准是否能形成自强化扩散,它能不能更快拉到 complementors
+Deployment Speed,部署速度,方案能否更快落地并形成真实反馈,先跑起来的一方更容易定义现实,它是不是更便宜更容易制造和部署
+Expectation Management,预期管理,买方是否相信它会成为 dominant standard,预期会影响站队投资与等待行为,它能不能让用户在不确定时仍敢下注

@@ -1,0 +1,6 @@
+display_name: Research Gap Finder
+short_description: Analyze topic coverage and surface grounded research gaps.
+default_prompt: >-
+  Map what a topic already covers, identify bottlenecks and controversies, and
+  suggest grounded research gaps, entry points, and validation ideas without
+  forcing novelty claims.

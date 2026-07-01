@@ -1,0 +1,7 @@
+{
+  "pptx": "build/pptx/apple_fy2025_financial_report_review.pptx",
+  "final_pptx": "final/apple_fy2025_financial_report_review.pptx",
+  "slides": 11,
+  "built_at": "2026-05-10",
+  "source_spec": "build/generated/slide_specs.yaml"
+}

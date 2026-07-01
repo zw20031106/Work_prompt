@@ -1,0 +1,5 @@
+display_name: Weekly Lab Update
+short_description: Turn weekly research activity into a concise lab-facing update.
+default_prompt: >-
+  Convert a week's paper reading, experiments, blockers, and next steps into a
+  concise Chinese weekly report, a meeting outline, or an English brief.

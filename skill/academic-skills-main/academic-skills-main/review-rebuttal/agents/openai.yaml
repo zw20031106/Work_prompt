@@ -1,0 +1,6 @@
+display_name: Review Rebuttal
+short_description: Analyze reviewer comments and draft a disciplined rebuttal response.
+default_prompt: >-
+  Break down reviewer comments, classify concerns, identify which points need
+  experiments or clarification, and draft a professional rebuttal without
+  inventing evidence.

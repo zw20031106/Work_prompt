@@ -1,0 +1,6 @@
+display_name: Paper Feishu Digest
+short_description: Build a ranked Chinese arXiv digest and optionally push it to Feishu.
+default_prompt: >-
+  Collect recent arXiv papers, rank them conservatively against the requested
+  keywords, summarize them in Chinese, and optionally prepare or send a Feishu
+  webhook digest.

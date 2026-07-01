@@ -1,0 +1,6 @@
+display_name: Survey Writer
+short_description: Draft a Chinese literature survey from a topic and multiple papers.
+default_prompt: >-
+  Organize a research topic and a set of papers into a structured Chinese survey
+  draft with taxonomy, method evolution, comparison points, limitations, and
+  open problems.
